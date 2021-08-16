@@ -20,22 +20,22 @@ Releasing in November 2021, MCARE is an open source AR game for anyone intereste
 
 ## Documentation
 
-* [Behaviorial Science](docs/docs/mcare-behavioral-science.md)
-* [Card Game Version](docs/docs/mcare-card-game-requirements.md)
-* [Engagement Metrics](docs/docs/mcare-engagement-metrics.md)
-* [Features Wish List](docs/docs/mcare-ar-wish-list.md)
-* [Inspiration from Hollywood](docs/docs/mcare-hollywood.md)
-* [Metrics](docs/docs/mcare-metrics.md)
-* [Original Concept](docs/docs/mcare-ar-concept.md)
-* [Requirements](docs/docs/mcare-requirements.md)
+* [Behaviorial Science](docs/mcare-behavioral-science.md)
+* [Card Game Version](docs/mcare-card-game-requirements.md)
+* [Engagement Metrics](docs/mcare-engagement-metrics.md)
+* [Features Wish List](docs/mcare-ar-wish-list.md)
+* [Inspiration from Hollywood](docs/mcare-hollywood.md)
+* [Metrics](docs/mcare-metrics.md)
+* [Original Concept](docs/mcare-ar-concept.md)
+* [Requirements](docs/mcare-requirements.md)
 
 * MCARE UI
-	* [Avatars and Login UI](docs/docs/mcare-login-avatars.md)
-	* [Checklist UI](docs/docs/mcare-checklist.md)
-	* [HUD UI](docs/docs/mcare-hud.md)
-	* [Headsets](docs/docs/mcare-headset-makers.md)
-	* [Player Setup](docs/docs/mcare-setup.md)
-	* [Spatial Audio](docs/docs/mcare-spatial-audio.md)
-	* [Translation](docs/docs/mcare-translation.md)
+	* [Avatars and Login UI](docs/mcare-login-avatars.md)
+	* [Checklist UI](docs/mcare-checklist.md)
+	* [HUD UI](docs/mcare-hud.md)
+	* [Headsets](docs/mcare-headset-makers.md)
+	* [Player Setup](docs/mcare-setup.md)
+	* [Spatial Audio](docs/mcare-spatial-audio.md)
+	* [Translation](docs/mcare-translation.md)
 
-* [Git How-to](docs/docs/git-how-to.md)
+* [Git How-to](docs/git-how-to.md)
