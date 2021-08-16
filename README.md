@@ -16,23 +16,26 @@ In 1995, as a navy research scientist, MCARE games producer Robin Rowe built the
 
 ## Timeline
 
-Releasing in November 2021, MCARE is an open source AR game for anyone interested in gaming, medicine, AR or open source. An international MCARE development team is based in California, New York, England, Portugal, France, Switzerland and the remote island of Mauritius.
+Releasing in November 2021, MCARE is an open source AR game for anyone interested in gaming, medicine, AR or open source. An international MCARE development team is based in the United States, England, Portugal, France, Switzerland and the remote island of Mauritius.
 
 ## Documentation
 
-* https://github.com/WHOAcademy/mcare/docs/git-how-to.md
-* https://github.com/WHOAcademy/mcare/docs/mcare-requirements.md
-* https://github.com/WHOAcademy/mcare/docs/mcare-ar-concept.md
-* https://github.com/WHOAcademy/mcare/docs/mcare-ar-wish-list.md
-* https://github.com/WHOAcademy/mcare/docs/mcare-behavioral-science.md
-* https://github.com/WHOAcademy/mcare/docs/mcare-card-game-requirements.md
-* https://github.com/WHOAcademy/mcare/docs/mcare-checklist.md
-* https://github.com/WHOAcademy/mcare/docs/mcare-engagement-metrics.md
-* https://github.com/WHOAcademy/mcare/docs/mcare-headset-makers.md
-* https://github.com/WHOAcademy/mcare/docs/mcare-hollywood.md
-* https://github.com/WHOAcademy/mcare/docs/mcare-hud.md
-* https://github.com/WHOAcademy/mcare/docs/mcare-login-avatars.md
-* https://github.com/WHOAcademy/mcare/docs/mcare-metrics.md
-* https://github.com/WHOAcademy/mcare/docs/mcare-setup.md
-* https://github.com/WHOAcademy/mcare/docs/mcare-spatial-audio.md
-* https://github.com/WHOAcademy/mcare/docs/mcare-translation.md
+* [Behaviorial Science](docs/docs/mcare-behavioral-science.md)
+* [Card Game Version](docs/docs/mcare-card-game-requirements.md)
+* [Engagement Metrics](docs/docs/mcare-engagement-metrics.md)
+* [Features Wish List](docs/docs/mcare-ar-wish-list.md)
+* [Inspiration from Hollywood](docs/docs/mcare-hollywood.md)
+* [Metrics](docs/docs/mcare-metrics.md)
+* [Original Concept](docs/docs/mcare-ar-concept.md)
+* [Requirements](docs/docs/mcare-requirements.md)
+
+* MCARE UI
+	* [Avatars and Login UI](docs/docs/mcare-login-avatars.md)
+	* [Checklist UI](docs/docs/mcare-checklist.md)
+	* [HUD UI](docs/docs/mcare-hud.md)
+	* [Headsets](docs/docs/mcare-headset-makers.md)
+	* [Player Setup](docs/docs/mcare-setup.md)
+	* [Spatial Audio](docs/docs/mcare-spatial-audio.md)
+	* [Translation](docs/docs/mcare-translation.md)
+
+* [Git How-to](docs/docs/git-how-to.md)
