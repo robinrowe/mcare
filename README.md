@@ -20,19 +20,19 @@ Releasing in November 2021, MCARE is an open source AR game for anyone intereste
 
 ## Documentation
 
-* https://github.com/WHOAcademy/mcaredocs/git-how-to.md
-* https://github.com/WHOAcademy/mcaredocs/mcare-requirements.md
-* https://github.com/WHOAcademy/mcaredocs/mcare-ar-concept.md
-* https://github.com/WHOAcademy/mcaredocs/mcare-ar-wish-list.md
-* https://github.com/WHOAcademy/mcaredocs/mcare-behavioral-science.md
-* https://github.com/WHOAcademy/mcaredocs/mcare-card-game-requirements.md
-* https://github.com/WHOAcademy/mcaredocs/mcare-checklist.md
-* https://github.com/WHOAcademy/mcaredocs/mcare-engagement-metrics.md
-* https://github.com/WHOAcademy/mcaredocs/mcare-headset-makers.md
-* https://github.com/WHOAcademy/mcaredocs/mcare-hollywood.md
-* https://github.com/WHOAcademy/mcaredocs/mcare-hud.md
-* https://github.com/WHOAcademy/mcaredocs/mcare-login-avatars.md
-* https://github.com/WHOAcademy/mcaredocs/mcare-metrics.md
-* https://github.com/WHOAcademy/mcaredocs/mcare-setup.md
-* https://github.com/WHOAcademy/mcaredocs/mcare-spatial-audio.md
-* https://github.com/WHOAcademy/mcaredocs/mcare-translation.md
+* https://github.com/WHOAcademy/mcare/docs/git-how-to.md
+* https://github.com/WHOAcademy/mcare/docs/mcare-requirements.md
+* https://github.com/WHOAcademy/mcare/docs/mcare-ar-concept.md
+* https://github.com/WHOAcademy/mcare/docs/mcare-ar-wish-list.md
+* https://github.com/WHOAcademy/mcare/docs/mcare-behavioral-science.md
+* https://github.com/WHOAcademy/mcare/docs/mcare-card-game-requirements.md
+* https://github.com/WHOAcademy/mcare/docs/mcare-checklist.md
+* https://github.com/WHOAcademy/mcare/docs/mcare-engagement-metrics.md
+* https://github.com/WHOAcademy/mcare/docs/mcare-headset-makers.md
+* https://github.com/WHOAcademy/mcare/docs/mcare-hollywood.md
+* https://github.com/WHOAcademy/mcare/docs/mcare-hud.md
+* https://github.com/WHOAcademy/mcare/docs/mcare-login-avatars.md
+* https://github.com/WHOAcademy/mcare/docs/mcare-metrics.md
+* https://github.com/WHOAcademy/mcare/docs/mcare-setup.md
+* https://github.com/WHOAcademy/mcare/docs/mcare-spatial-audio.md
+* https://github.com/WHOAcademy/mcare/docs/mcare-translation.md
