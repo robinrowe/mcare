@@ -1,5 +1,7 @@
 # MCARE
 
+![MCARE hospital](docs/mcare-2021-06-16-babylon2.png)
+
 MCARE is a realistic hospital disaster simulation game on Hololens and Magic Leap in which doctors/players gain points for saving lives. 
 
 ## A Different Type of Gaming Experience
