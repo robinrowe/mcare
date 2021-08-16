@@ -4,7 +4,7 @@ MCARE is a realistic hospital disaster simulation game on Hololens and Magic Lea
 
 ## A Different Type of Gaming Experience
 
-MCARE (Mass Casualty Augmented Reality Experience) is a different kind of first-person shooter game. It doesn't shoot. MCARE is an Augmented Reality hospital disaster game on Hololens and Magic Leap in which players gain points for saving lives.
+MCARE (Mass Casualty Augmented Reality Experience is a different kind of first-person shooter game. It doesn't shoot. MCARE is an Augmented Reality hospital disaster game on Hololens and Magic Leap in which players gain points for saving lives.
 
 ## UN WHO Academy
 
@@ -20,19 +20,19 @@ Releasing in November 2021, MCARE is an open source AR game for anyone intereste
 
 ## Documentation
 
-(/docs/git-how-to.md)
-(/docs/mcare-requirements.md)
-(/docs/mcare-ar-concept.md)
-(/docs/mcare-ar-wish-list.md)
-(/docs/mcare-behavioral-science.md)
-(/docs/mcare-card-game-requirements.md)
-(/docs/mcare-checklist.md)
-(/docs/mcare-engagement-metrics.md)
-(/docs/mcare-headset-makers.md)
-(/docs/mcare-hollywood.md)
-(/docs/mcare-hud.md)
-(/docs/mcare-login-avatars.md)
-(/docs/mcare-metrics.md)
-(/docs/mcare-setup.md)
-(/docs/mcare-spatial-audio.md)
-(/docs/mcare-translation.md)
+* https://github.com/WHOAcademy/mcaredocs/git-how-to.md
+* https://github.com/WHOAcademy/mcaredocs/mcare-requirements.md
+* https://github.com/WHOAcademy/mcaredocs/mcare-ar-concept.md
+* https://github.com/WHOAcademy/mcaredocs/mcare-ar-wish-list.md
+* https://github.com/WHOAcademy/mcaredocs/mcare-behavioral-science.md
+* https://github.com/WHOAcademy/mcaredocs/mcare-card-game-requirements.md
+* https://github.com/WHOAcademy/mcaredocs/mcare-checklist.md
+* https://github.com/WHOAcademy/mcaredocs/mcare-engagement-metrics.md
+* https://github.com/WHOAcademy/mcaredocs/mcare-headset-makers.md
+* https://github.com/WHOAcademy/mcaredocs/mcare-hollywood.md
+* https://github.com/WHOAcademy/mcaredocs/mcare-hud.md
+* https://github.com/WHOAcademy/mcaredocs/mcare-login-avatars.md
+* https://github.com/WHOAcademy/mcaredocs/mcare-metrics.md
+* https://github.com/WHOAcademy/mcaredocs/mcare-setup.md
+* https://github.com/WHOAcademy/mcaredocs/mcare-spatial-audio.md
+* https://github.com/WHOAcademy/mcaredocs/mcare-translation.md
