@@ -22,15 +22,8 @@ Releasing in November 2021, MCARE is an open source AR game for anyone intereste
 
 ## Documentation
 
-* [Behaviorial Science](docs/mcare-behavioral-science.md)
-* [Card Game Version](docs/mcare-card-game-requirements.md)
-* [Engagement Metrics](docs/mcare-engagement-metrics.md)
-* [Features Wish List](docs/mcare-ar-wish-list.md)
-* [Inspiration from Hollywood](docs/mcare-hollywood.md)
-* [Metrics](docs/mcare-metrics.md)
-* [Original Concept](docs/mcare-ar-concept.md)
+* [MCARE Architecture and Roadmap](docs/mcare-architecture-roadmap.pdf)
 * [Requirements](docs/mcare-requirements.md)
-
 * MCARE UI
 	* [Avatars and Login UI](docs/mcare-login-avatars.md)
 	* [Checklist UI](docs/mcare-checklist.md)
@@ -39,5 +32,13 @@ Releasing in November 2021, MCARE is an open source AR game for anyone intereste
 	* [Player Setup](docs/mcare-setup.md)
 	* [Spatial Audio](docs/mcare-spatial-audio.md)
 	* [Translation](docs/mcare-translation.md)
+	* [Settings and Game Flow](docs/mcare-settings-flow.pdf)
+* [Behaviorial Science](docs/mcare-behavioral-science.md)
+* [Card Game Version](docs/mcare-card-game-requirements.md)
+* [Engagement Metrics](docs/mcare-engagement-metrics.md)
+* [Features Wish List](docs/mcare-ar-wish-list.md)
+* [Inspiration from Hollywood](docs/mcare-hollywood.md)
+* [Metrics](docs/mcare-metrics.md)
+* [Original Concept](docs/mcare-ar-concept.md)
 
 * [Git How-to](docs/git-how-to.md)
