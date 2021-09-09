@@ -1,0 +1,24 @@
+CC Attribution
+https://creativecommons.org/licenses/by/4.0/legalcode
+
+
+
+
+shelf.bin, shelf.gltf
+https://sketchfab.com/3d-models/old-damaged-industrial-shelf-4e9a5760954d470d8712a91e43801c0a
+
+semaforo.bin, semaforo.gltf
+https://sketchfab.com/3d-models/traffic-light-12in-d8a64bf6320b489ca6aabc02001722cb
+
+mri.bin, mri.gltf
+https://sketchfab.com/3d-models/mri-machine-7878f152c2434026a7ebf84ce8bc791f
+
+operacoes.bin, operacoes.gltf
+https://sketchfab.com/3d-models/operating-table-e3a4512227d34b098e2ef0d11c8a80fd
+
+lab.bin, lab.gltf
+https://sketchfab.com/3d-models/lab-bench-1ac2a62c52a848bbaf746146dc7253f8
+
+desk.bin, desk.gltf
+https://sketchfab.com/3d-models/desk-765cbc627ef44762890141516e31f666
+

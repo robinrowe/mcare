@@ -1,0 +1,2 @@
+
+Test file using media pipe javascript files to track hands and touching element on the DOM 
