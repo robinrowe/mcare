@@ -25,16 +25,17 @@ Above packet is 36 bytes long (24 + 11 + 1). Server says MOVE user #1 to xyz pos
 
 ## Packet Types
 
-* ANSW: Answer
 * AUDI: Audio
+* AVAT: Avatar
 * CHAT: Chat message
 * DEAD: Dead patient, has died 
+* DRUG: Query, add or remove a drug from inventory
 * ENDG: End Game
-* GAME: Game a player may join
+* GAME: Game info, what a player may join
 * HOSP: Hospital to load
 * ITEM: Furniture or medical equipment
-* JOIN: Join game
-* LEAV: Leave game
+* JOIN: Join game or team
+* LEAV: Leave game or team
 * LOAD: Game list, per Country #, or zero to get list of closest games
 * LOCA: Location
 * LOGI: Login
@@ -42,10 +43,16 @@ Above packet is 36 bytes long (24 + 11 + 1). Server says MOVE user #1 to xyz pos
 * MOVE: Move item or player
 * PAGE: Page with PA or beeper
 * PATI: Patient action
+* PERS: Add or drop personel NPC
 * PIPW: PiP Window
 * QUES: Question
 * REPL: Replay
+* ROOM: Add or drop a room
+* STAR: Start game
 * STAT: Stats
+* SURG: Surgical procedure
+* TEAM: Team info
 * TIME: Time
 * TREA: Treatment choice by doctor or nurse
+* TRIA: Triage
 * VITA: Vitals of patient
