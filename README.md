@@ -37,6 +37,7 @@ Releasing in November 2021, MCARE is an open source AR game for anyone intereste
 	* [Settings and Game Flow](docs/mcare-settings-flow.pdf)
 	* [Engagement Metrics](docs/mcare-engagement-metrics.md)
 	* [Metrics](docs/mcare-metrics.md)
+	* [MoLA](docs/mola.md)
 * [Behaviorial Science](docs/mcare-behavioral-science.md)
 * [Inspiration from Hollywood](docs/mcare-hollywood.md)
 * [MCARE Card Game Version](docs/mcare-card-game-requirements.md)
