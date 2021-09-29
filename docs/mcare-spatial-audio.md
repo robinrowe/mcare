@@ -36,29 +36,6 @@ A simple, manually operated, test server that for UI has a web cgi form. Create 
 
 Web form has a FromId field (int), a ToId field (int), a 2-letter command code field, a text payload field and a Submit button. Data collected from form is sent down a websocket on port 8080 to the HelloWorld app. 
 
-## Packet Format
-
-* 12-byte packet header
-* 2-byte command: XX
-* ASIIZ: Payload
-
-If a payload takes multiple fields, they are separated by pipes, that is, '|'. 
-
-### Packet Header
-
-* 16-bit short: TotalPacketLength
-* 16-bit short: PacketID (increases monatomically, wraps around)
-* 32-bit int: FromId (server = 0)
-* 32-bit int: ToId (user = 1)
-
-Bits are in Network Order. Little Endian platforms must do bit-shifting.
-
-### Example Move Packet
-
-Move packet contents: 25 0 0 1 MV 100,100,20\0. 
-
-Above packet is 25 bytes long (12 + 2 + 11). Ignoring PacketID for now, server says MoVe user #1 to xyz position 100,100,20.
-
 ### Links
 
 [3D Audio Basics[(https://youtu.be/K9wlZveOw_M)
