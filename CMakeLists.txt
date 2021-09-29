@@ -18,4 +18,12 @@ set(LWS_WITH_SSL OFF)
 option(LWS_WITH_SHARED "Build the shared version of the library" ON)
 set(LWS_WITH_SHARED OFF)
 add_subdirectory(libwebsockets)
+include_directories(
+	${CMAKE_SOURCE_DIR}/libwebsockets/include 
+	${CMAKE_BINARY_DIR}/libwebsockets/include	)
+link_directories(
+	${CMAKE_BINARY_DIR}/libwebsockets/lib/Debug	)
+link_libraries(Ws2_32 websockets_static)
 add_subdirectory(mcare_server)
+add_definitions(-D_CRT_SECURE_NO_WARNINGS)
+add_subdirectory(simple-libwebsockets-example)
