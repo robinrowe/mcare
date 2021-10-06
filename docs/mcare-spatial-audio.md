@@ -6,9 +6,53 @@ _What is our thinking in relation to audio in the game, in terms of how the proc
 
 The fundamental concept is every sound has a location in 3D space. 
 
+## IOSONO 380-channel Spatial Sound System
+
+To support theatrical spatial sound, 380 speakers were installed at Mann's Chinese:
+
+https://www.livedesignonline.com/electrosonic-installs-380-channel-iosono-audio-system-at-mann-chinese-6-theatre-hollywood
+
+The software to support this is from Encircled:
+
+https://encircled-audio.com/
+
+The production plugin:
+
+https://encircled-audio.com/static/saw_user_manual_2.4.3-cc1b67153274c06485559c4853528f3d.pdf
+
+We are not using the Nuendo SAW, but their manual is interesting as a spatial audio system that has a manual, that shows what spatial sound placement looks like in a DAW. 
+
+![Nuendo SAW Stage Space View](nuendo-saw.png)
+
+Instead of Nuendo SAW, we are building our own software to operate for spatial sound placement. For spatial audio production, we will place many sound point sources at locations in stage space. Our stage is a 3D x-y-z space, a hospital with multiple floors.
+
+## Game Spatial Audio
+
+Unlike IOSONO, we aren't producing for 380 speakers at Mann's Chinese. Software in the headset will render a unique 3D audio experience to each player. For playing to the headset, there is no LT/RT, no Dolby 5.1, no mixing stage, because baking those mixes presumes a fixed head position. Spatial audio mixes autonomously to match each player's head in real time. 
+
+Our spatial audio AR software will ride audio mix levels in real time, based on the player's head position relative to the point sources you define. Think of the mix changing autonomously like automation of sliders on a mixing board. But not from a predefined setting as for a room mix. An individual audio mix headset experience optimal to each listener based on where their heads are at any moment in real time calculated by computer software.
+
+In a room with speakers, when a person's head turns, the speakers stay in place. A speaker to our right or left is still where it was no matter where we turn. When wearing a headset playing an LT/RT or 5.1 mix, the room spins as our head moves. With a conventional headset, turning our head 180 degrees does not swap ears LT/RT. With spatial audio, turning our head 180 degrees does swap channels. Point sources stay where they belong no matter where we turn our heads. If a person to our side is speaking, and we turn our head to hear them better, that works the same in the AR world as in the real world.
+
+## Foreign Language Support, No Dubbing
+
+We won't need some expensive audio plugin to match duration or match the movement of lips to a foreign language. We control the animation on an individual basis. Match the lips to the words, not the other way around. Every player has an individual viewing and listening experience, sees in effect a slightly different version of the same movie. 
+
+If we are working from Korean to English, as was done recently for some Korean cartoons, we will make the animated lips match the English audio. Will not call in any superhero VO actors to speak English words that have the same lipsync as in the Korean animation. 
+
+## Machinima
+
+In machinima real-tme animation we control everything. Can change anything, live. We don't need the clever tricks that are used to dub one film to make it seem shot in multiple languages. We can make our animation be in 26 dialects, or however many different language versions we wish, without a problem with lipsync. Because each version renders a different lipsync that matches the language being spoken.
+
+See this machinima clip from *Call of Duty*:
+
+https://vimeo.com/24471494
+
+Note that the live performer being motion-captured on the sound stage at Moves has avatar lipsync that matches whatever he says. Instead of matching the words to his lips, his avatar's animated. This happens in real-time, at 120 fps, without human animators. Animated by computer.
+
 ## Dolby Atmos
 
-Dolby Atmos seems to be the state of the art today:
+Dolby Atmos is considered the state of the art today:
 
 * [Dolby Developer](https://developer.dolby.com/platforms/html5/overview/)
 
