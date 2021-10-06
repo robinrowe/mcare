@@ -1,6 +1,6 @@
 # MCARE Spatial Audio
 
-by Robin Rowe 2020/6/28
+by Robin Rowe 2021/6/28, 2021/10/6
 
 _What is our thinking in relation to audio in the game, in terms of how the procedural and spatial aspects will be handled?_
 
@@ -31,6 +31,8 @@ Instead of Nuendo SAW, we are building our own software to operate for spatial s
 Unlike IOSONO, we aren't producing for 380 speakers at Mann's Chinese. Software in the headset will render a unique 3D audio experience to each player. For playing to the headset, there is no LT/RT, no Dolby 5.1, no mixing stage, because baking those mixes presumes a fixed head position. Spatial audio mixes autonomously to match each player's head in real time. 
 
 Our spatial audio AR software will ride audio mix levels in real time, based on the player's head position relative to the point sources you define. Think of the mix changing autonomously like automation of sliders on a mixing board. But not from a predefined setting as for a room mix. An individual audio mix headset experience optimal to each listener based on where their heads are at any moment in real time calculated by computer software.
+
+## Head-spinning Spatial Audio
 
 In a room with speakers, when a person's head turns, the speakers stay in place. A speaker to our right or left is still where it was no matter where we turn. When wearing a headset playing an LT/RT or 5.1 mix, the room spins as our head moves. With a conventional headset, turning our head 180 degrees does not swap ears LT/RT. With spatial audio, turning our head 180 degrees does swap channels. Point sources stay where they belong no matter where we turn our heads. If a person to our side is speaking, and we turn our head to hear them better, that works the same in the AR world as in the real world.
 
