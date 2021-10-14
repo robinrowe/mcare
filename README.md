@@ -27,6 +27,7 @@ Releasing in November 2021, MCARE is an open source AR game for anyone intereste
 * MCARE UI
 	* [Avatars and Login UI](docs/mcare-login-avatars.md)
 	* [Checklist UI](docs/mcare-checklist.md)
+	* [Graphics](docs/mcare-graphics.md)
 	* [Headsets](docs/mcare-headset-makers.md)
 	* [HUD UI](docs/mcare-hud.md)
 	* [Player Setup](docs/mcare-setup.md)
