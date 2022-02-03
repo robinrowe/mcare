@@ -40,7 +40,7 @@ place in the operating theatre/specialised theatre
 ** Life can be reduced by x minutes
 ** May cause patient to die as time to carry out intervention exceeds life remaining in the life timer
 
-## Caveats (aka real patients don’t behave as you ex
+## Caveats (aka real patients don’t behave as you expect)
 
 ### Columns U and V reflect real life.
 * Patients don’t behave as you expect/want them to
