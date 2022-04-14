@@ -20,7 +20,7 @@ In 1995, as a navy research scientist, MCARE games producer Robin Rowe built the
 
 ## Timeline
 
-Releasing in 2021, MCARE is an open source AR game for anyone interested in gaming, medicine, AR or open source. An international MCARE development team is based in the United States, England, Portugal, France, Switzerland and the remote island of Mauritius.
+MCARE is an open source AR/VR game for anyone interested in the metaverse, gaming, medicine or open source software. An international MCARE team is based in the United States, England, Portugal, France, Switzerland and the remote island of Mauritius supported development in 2021. Due to shifting priorities at WHO that required urgency, such as humanitarian medical aid to Ukraine, the anticipated MCARE November 2021 release date is rescheduled to June 2022.
 
 ## Documentation
 
